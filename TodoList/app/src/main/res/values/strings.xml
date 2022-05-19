@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">TodoList</string>
     <string name="add_text">追加</string>
-
+    <string name="register_text">登録</string>
+    <string name="back_text">戻る</string>
+    <string name="title_text">タイトル</string>
+    <string name="deadline_text">期日</string>
 </resources>

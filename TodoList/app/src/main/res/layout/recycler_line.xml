@@ -20,7 +20,7 @@
                 android:textStyle="bold">
             </TextView>
             <EditText
-                android:id="@+id/add_title_text"
+                android:id="@+id/recycler_title_text"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content">
             </EditText>
@@ -40,7 +40,7 @@
                 android:textStyle="bold">
             </TextView>
             <EditText
-                android:id="@+id/add_deadline_text"
+                android:id="@+id/recycler_deadline_text"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content">
             </EditText>
